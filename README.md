@@ -15,6 +15,7 @@ It includes related [courses](#courses), [books](#books), [articles](#articles),
     - College Calculus, Linear Algebra
     - Basic Probability and Statistics (Eg - basics of probabilities, gaussian distributions, mean, standard deviation, etc.)
     - [Foundations of Machine Learning](http://ciml.info/)
+* [Free NLP Introductory Course](https://github.com/ansegura7/NLP?utm_source=Iterable&utm_medium=email&utm_campaign=newsletter_143)
 
 ## Books
 * [Github Link of fastai Book](https://github.com/fastai/fastbook) - These notebooks cover an introduction to deep learning, fastai, and PyTorch.
